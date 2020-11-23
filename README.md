@@ -1,2 +1,4 @@
 # chip8-emulator-in-rust
-A CHIP-8 emulator in Rust
+
+A simple Pet Project created as an excuse to learn Rust.
+
