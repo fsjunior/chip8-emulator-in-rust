@@ -1,4 +1,6 @@
 # chip8-emulator-in-rust
+[![build](https://img.shields.io/github/workflow/status/fsjunior/chip8-emulator-in-rust/Build)](https://github.com/fsjunior/chip8-emulator-in-rust/actions?query=workflow%3ABuild)
+
 
 A simple Pet Project created as an excuse to learn Rust.
 
